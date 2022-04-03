@@ -26,7 +26,7 @@
     position: absolute;
     top: 0;
     left: 0;
-    background-color: #000;
+    background-color: transparent;
     height: 100%;
     width: 100%;
     color: transparent;
@@ -35,7 +35,7 @@
     align-items: center;
     font-size: 5rem;
     font-weight: 1000;
-    
     mix-blend-mode: multiply;
     text-transform: uppercase;
+    position: absolute;
 }
