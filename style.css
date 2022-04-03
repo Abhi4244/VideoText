@@ -26,10 +26,10 @@
     position: absolute;
     top: 0;
     left: 0;
-    background-color: transparent;
+    background-color: black;
     height: 100%;
     width: 100%;
-    color: transparent;
+    color: #ffffff;
     display: flex;
     justify-content: center;
     align-items: center;
